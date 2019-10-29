@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "kannan-polymer-project",
+    "staging": "kannan-polymer-project"
+  }
+}
